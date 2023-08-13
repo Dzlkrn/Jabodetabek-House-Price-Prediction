@@ -5,26 +5,24 @@
 **House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively**
 
 
-Full Name & Batch :
+**Full Name & Batch :**
 
 Andira Dzulkarnain & HCK06
 
-Dashboard / Deployment Link :
+**Dashboard / Deployment Link :**
 
 1. Dashboard (https://lookerstudio.google.com/reporting/6064f6cd-4d72-4787-83b2-cb650f59158f/page/1M)
 2. Deployment Link (https://huggingface.co/spaces/Dzlkrn/House_Price_Prediction)
 
-Project Title :
+**Project Title :**
 
 REVOLUTIONIZE BANKING WITH CUTTING-EDGE MACHINE LEARNING: 
 House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively
 
-Project Description :
+**Project Description :**
 Dalam persaingan ketat di industri perbankan, keputusan bisnis yang cerdas adalah kunci untuk tetap relevan dan sukses. Dengan memiliki alat yang mampu memberikan estimasi akurat terhadap harga rumah, pihak bank dapat memperkuat proses penilaian aset, meningkatkan analisis risiko kredit, dan merumuskan strategi pemasaran produk perumahan yang tepat. Inilah di mana model prediksi harga rumah kami akan menjadi penyemangat baru dalam mengoptimalkan efisiensi operasional dan mengarahkan kebijakan bank ke arah yang lebih cerdas.
 
 Bersama-sama, kita akan memahami tren dan pola yang tersembunyi dalam data, dan menciptakan algoritma cerdas yang mampu membaca bahasa rumah - dari luas tanah hingga jumlah kamar tidur, dari fasilitas yang tersedia hingga tahun pembangunan. Lalu kita akan memprediksi harga rumah dan membantu pihak bank mengambil langkah ke depan menuju masa depan yang cerah.
-
-Conclusion :
 
 **Conclusions:**
 
