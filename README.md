@@ -7,7 +7,8 @@ Andira Dzulkarnain & HCK06
 **Dashboard / Deployment Link :**
 
 1. Dashboard (https://lookerstudio.google.com/reporting/6064f6cd-4d72-4787-83b2-cb650f59158f/page/1M)
-2. Deployment Link (https://huggingface.co/spaces/Dzlkrn/House_Price_Prediction)
+2. Deployment (https://huggingface.co/spaces/Dzlkrn/House_Price_Prediction)
+3. Deck (https://www.canva.com/design/DAFrVEzKCc8/sbq4gx0e9NxikodcEyh94A/editutm_content=DAFrVEzKCc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Project Title :**
 
@@ -19,24 +20,24 @@ Dalam persaingan ketat di industri perbankan, keputusan bisnis yang cerdas adala
 
 Bersama-sama, kita akan memahami tren dan pola yang tersembunyi dalam data, dan menciptakan algoritma cerdas yang mampu membaca bahasa rumah - dari luas tanah hingga jumlah kamar tidur, dari fasilitas yang tersedia hingga tahun pembangunan. Lalu kita akan memprediksi harga rumah dan membantu pihak bank mengambil langkah ke depan menuju masa depan yang cerah.
 
-**Conclusions:**
+**Kesimpulan:**
 
-1. Hasil dari penelitian menunjukkan adanya indikasi overfit sebelum dan setelah dilakukan tuning. Meskipun telah dilakukan penyetelan (tuning) pada model, terlihat bahwa hasil prediksi masih menunjukkan adanya perbedaan yang signifikan antara performa pada data latih dan data uji. Oleh karena itu, untuk meningkatkan kualitas model, kami merekomendasikan untuk lebih memperhatikan teknik penanganan overfitting, seperti pengaturan parameter yang lebih sesuai dan penggunaan teknik regularisasi yang tepat.
+Hasil penelitian menunjukkan adanya tanda-tanda overfitting sebelum dan setelah dilakukan tuning pada model. Meskipun telah dilakukan penyesuaian parameter (tuning), terlihat bahwa hasil prediksi masih memiliki perbedaan yang signifikan antara kinerja pada data latih dan data uji. Oleh karena itu, untuk meningkatkan kualitas model, disarankan untuk lebih fokus pada penanganan overfitting dengan menggunakan pengaturan parameter yang lebih tepat dan penerapan teknik regularisasi yang sesuai.
 
-2. Penelitian ini memberikan kontribusi yang berharga bagi pihak bank dalam operasionalnya, terutama di divisi yang berkaitan dengan penilaian aset, analisis risiko kredit, dan strategi pemasaran produk perumahan. Model prediksi harga rumah dapat membantu bank dalam melakukan penilaian cepat dan akurat terhadap harga rumah yang akan dijaminkan, memperbaiki proses pengambilan keputusan terkait kredit, serta menyediakan panduan dalam perencanaan pemasaran produk perumahan.
+Penelitian ini memiliki dampak positif bagi operasional bank, terutama di divisi yang terkait dengan penilaian aset, analisis risiko kredit, dan strategi pemasaran produk perumahan. Model prediksi harga rumah dapat membantu bank dalam melakukan penilaian aset secara cepat dan akurat, meningkatkan efisiensi proses pengambilan keputusan kredit, serta memberikan panduan strategis dalam pemasaran produk perumahan.
 
-**Overall Analysis:**
+**Analisis Keseluruhan:**
 
-Penelitian ini menggambarkan proses pengembangan dan penilaian model prediksi harga rumah dengan menggunakan berbagai metode regresi dan teknik pemrosesan data. Namun, hasil evaluasi menunjukkan adanya potensi overfitting pada model yang memerlukan perhatian lebih lanjut. Secara keseluruhan, penelitian ini menghadirkan peluang besar bagi pihak bank untuk meningkatkan efisiensi operasional, meningkatkan akurasi penilaian aset, dan mengoptimalkan strategi bisnis.
+Penelitian ini menggambarkan proses pengembangan dan evaluasi model prediksi harga rumah menggunakan berbagai metode regresi dan teknik pemrosesan data. Namun, hasil evaluasi mengindikasikan adanya potensi overfitting yang perlu mendapatkan perhatian lebih lanjut. Secara menyeluruh, penelitian ini memberikan peluang bagi bank untuk meningkatkan efisiensi operasional, akurasi penilaian aset, dan optimasi strategi bisnis.
 
-Dalam aplikasi dunia perbankan, model prediksi harga rumah dapat diimplementasikan dalam beberapa cara yang bermanfaat:
+Dalam konteks aplikasi di industri perbankan, model prediksi harga rumah memiliki potensi implementasi yang berdampak besar:
 
-1. **Penilaian Kredit yang Lebih Cepat dan Akurat:** Dalam proses pengajuan kredit perumahan, bank dapat menggunakan model ini untuk mempercepat penilaian harga rumah yang diajukan sebagai jaminan. Hal ini akan membantu bank dalam mengambil keputusan kredit yang lebih cepat dan lebih akurat.
+1. Penilaian Kredit yang Lebih Cepat dan Akurat: Dalam proses pemberian kredit perumahan, bank dapat memanfaatkan model ini untuk mengakselerasi penilaian harga rumah yang dijaminkan. Ini akan mendukung bank dalam membuat keputusan kredit yang lebih cepat dan lebih tepat.
 
-2. **Analisis Risiko Kredit yang Lebih Mendalam:** Model prediksi harga rumah dapat menjadi komponen penting dalam analisis risiko kredit. Bank dapat menggabungkan informasi prediksi harga dengan data lainnya untuk mengukur risiko yang terkait dengan nilai aset yang dijaminkan dan membantu dalam menentukan besaran kredit yang sesuai.
+2. Analisis Risiko Kredit yang Lebih Mendalam: Model prediksi harga rumah dapat menjadi komponen penting dalam analisis risiko kredit. Bank bisa menggabungkan prediksi harga dengan data lainnya untuk mengukur risiko yang terkait dengan nilai aset yang dijamin dan membantu menentukan jumlah kredit yang sesuai.
 
-3. **Strategi Pemasaran Produk Perumahan:** Model ini juga dapat digunakan oleh tim pemasaran bank untuk mengidentifikasi segmen pasar potensial, merencanakan harga yang kompetitif, dan mengoptimalkan kampanye pemasaran produk perumahan.
+3. Strategi Pemasaran Produk Perumahan: Tim pemasaran bank dapat menggunakan model ini untuk mengidentifikasi segmen pasar yang berpotensi, merencanakan harga yang kompetitif, serta mengoptimalkan strategi pemasaran produk perumahan.
 
-4. **Pengembangan Portofolio Produk:** Informasi prediksi harga rumah dapat membantu bank dalam mengembangkan portofolio produk perumahan yang lebih sesuai dengan preferensi dan potensi pasar, serta mengidentifikasi peluang investasi.
+4. Pengembangan Portofolio Produk: Informasi prediksi harga rumah dapat mendukung bank dalam mengembangkan portofolio produk perumahan yang lebih sesuai dengan preferensi dan potensi pasar, sekaligus mengidentifikasi peluang investasi.
 
-Dengan mengimplementasikan model prediksi harga rumah, bank dapat meningkatkan efisiensi operasional, mengurangi risiko kredit, dan mengambil keputusan bisnis yang lebih cerdas dalam industri perbankan yang semakin kompetitif.
+Dengan mengadopsi model prediksi harga rumah, bank dapat meningkatkan efisiensi operasional, mengurangi risiko kredit, dan mengambil keputusan bisnis yang lebih cerdas dalam lingkungan bisnis yang semakin kompetitif.
