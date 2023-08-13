@@ -1,7 +1,8 @@
 ![pict](housing_predictions.jpg)
 
-**REVOLUTIONIZE BANKING WITH CUTTING-EDGE MACHINE LEARNING: 
-House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively**
+**REVOLUTIONIZE BANKING WITH CUTTING-EDGE MACHINE LEARNING:** 
+
+**House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively**
 
 
 Full Name & Batch :
