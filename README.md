@@ -1,13 +1,20 @@
-(![pict](housing_predictions.jpg))
+![pict](housing_predictions.jpg)
+
+**REVOLUTIONIZE BANKING WITH CUTTING-EDGE MACHINE LEARNING: 
+House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively**
+
 
 Full Name & Batch :
+
 Andira Dzulkarnain & HCK06
 
 Dashboard / Deployment Link :
+
 1. Dashboard (https://lookerstudio.google.com/reporting/6064f6cd-4d72-4787-83b2-cb650f59158f/page/1M)
 2. Deployment Link (https://huggingface.co/spaces/Dzlkrn/House_Price_Prediction)
 
 Project Title :
+
 REVOLUTIONIZE BANKING WITH CUTTING-EDGE MACHINE LEARNING: 
 House Price Prediction, empowering banks to make smarter lending decisions and mitigate risks effectively
 
